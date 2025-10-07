@@ -1,10 +1,10 @@
 [project]
 name = "funa"
-version = "0.0.2"
+version = "0.1.1"
 authors = [
-  { name="Funasitien DreamCloud", email="funasitien@dreamclouds.fr" },
+  { name="Funasitien DreamCloud", email="hello@funa.dev" },
 ]
-description = "Bunch of trash made in style. Use with caution."
+description = "Utility functions packed into a single branded packages. So I don't copy paste the same file over and over."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
